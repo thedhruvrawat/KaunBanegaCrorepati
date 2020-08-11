@@ -2,6 +2,12 @@
 
 # Kaun Banega Crorepati
 
+![Language](https://img.shields.io/static/v1?label=Language&message=C&color=brightgreen&style=for-the-badge)
+&nbsp;
+![Platform](https://img.shields.io/static/v1?label=Platform&message=Ubuntu&color=informational&style=for-the-badge)
+&nbsp;
+![Contributers](https://img.shields.io/static/v1?label=Contributers&message=3&color=important&style=for-the-badge)
+
 Course Project for CS F111: Computer Programming course at BITS Pilani
 
 ## Installation
@@ -50,7 +56,8 @@ Here are some screenshots of the working of the application
 
 ![Two Lifelines](https://github.com/thedhruvrawat/KaunBanegaCrorepati/blob/master/screenshots/twolife.gif)
 
-You can view other screenshots of the working of the application in the screenshots folder
+You can view other screenshots of the working of the application in the [screenshots folder](https://github.com/thedhruvrawat/KaunBanegaCrorepati/blob/master/screenshots).
+
 ## Contributers
 
 - Dhruv Rawat

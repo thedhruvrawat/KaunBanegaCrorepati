@@ -1,4 +1,4 @@
-<!-- ![KBC]("banner.jpg") -->
+![KBC](https://github.com/thedhruvrawat/KaunBanegaCrorepati/blob/master/banner.jpg)
 
 # Kaun Banega Crorepati
 

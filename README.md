@@ -4,31 +4,40 @@
 
 Course Project for CS F111: Computer Programming course at BITS Pilani
 
-<!-- ![KBC]("screenshots/crorepati.PNG") -->
-
-
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Clone this [repository](https://github.com/thedhruvrawat/KaunBanegaCrorepati.git) using the following command.
 
 ```bash
-pip install foobar
+git clone https://github.com/thedhruvrawat/KaunBanegaCrorepati.git
+```
+
+Navigate to the directory using 
+```bash
+cd KaunBanegaCrorepati
+```
+
+Ensure that you have `gcc` pre-installed, to check the `gcc` version run the following command.
+```bash
+gcc --version
+```
+
+If `gcc` is installed then you can run the following command to generate the executable output file and then run it.
+```bash
+gcc kbc.c -o kbc.exe
+./kbc.exe
 ```
 
 ## Usage
 
-```python
-import foobar
+![Welcome Screen](https://github.com/thedhruvrawat/KaunBanegaCrorepati/blob/master/screenshots/usermenu.jpg)
 
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+## Contributers
 
-Please make sure to update tests as appropriate.
+- Dhruv Rawat
+- Shubham Sharma
+- Vansh Chhabra
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)

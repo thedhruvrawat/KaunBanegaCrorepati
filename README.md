@@ -30,9 +30,9 @@ gcc kbc.c -o kbc.exe
 
 ## Usage
 
-![Welcome Screen](https://github.com/thedhruvrawat/KaunBanegaCrorepati/blob/master/screenshots/usermenu.PNG)
+![Welcome Screen](https://github.com/thedhruvrawat/KaunBanegaCrorepati/blob/master/screenshots/home.gif)
 
-![Normal Question](https://github.com/thedhruvrawat/KaunBanegaCrorepati/blob/master/screenshots/normalquestion.PNG)
+![Correct Answer](https://github.com/thedhruvrawat/KaunBanegaCrorepati/blob/master/screenshots/correct.gif)
 
 
 ## Contributers

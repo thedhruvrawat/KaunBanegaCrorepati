@@ -1,17 +1,6 @@
-###########################################################################################
-ReadMe for assignment submitted by 2019B3PS0537P
-Practical section number: P7
-Asignment question attempted: 1
-###########################################################################################
-Team:
-1. 2019B3PS0537P	DHRUV RAWAT
-2. 2019B2PS0925P	SHUBHAM SHARMA
-3. 2019B1PS1039P	VANSH CHHABRA
-###########################################################################################
-Description of how to run the code and observe the output: 
-1. The .zip contains 2019B3PS0537_P7.c which is the only code file. Please ensure that this file and the questions folder are located in same location. Also for better understanding we have also added an infographic (created by us) in the .zip folder and also some screenshots of the program when run by us. 
-2. Unzip the folder and navigate to it using the terminal.
-3. To run the file, use gcc 2019B3PS0537P_P7.c -o 2019B3PS0537P_P7.exe followed by ./2019B3PS0537P_P7.exe. We couldn't provide the executable file from our end due to security restrictions on Gmail. 
+1. This application has been built in C language.
+2. It is an implementation of the popular Indian television gameshow Kaun Banega Crorepati.
+3. Please ensure that all the steps given in the README are followed for proper functioning of this application. 
 4. The input files are in the "questions" folder. There are 15 .txt files coresponding to 15 questions which will be asked in the game.  
 5. Each file contains the the following information in respective order : 
 	a) Question
@@ -21,6 +10,7 @@ Description of how to run the code and observe the output:
 	e) The money value of each question divided by 1000
 6. When the output file is run, the player is welcomed into the game with a user-friendly menu enlisting 5 options
 7. If you press 1, the game starts. 
+   
    ****	DETAILS REGARDING THE QUESTIONS IN THE GAME ****
 	a. Total number of questions = 15
 	b. Prize money associated with each question:
@@ -65,18 +55,12 @@ If you give a wrong answer, you will be awarded prize money corresponding to you
 21. In the main menu, if you press '5', you will be able to exit the game.
 22. Entering any choice other than 1/2/3/4/5 will prompt you to enter a correct one
 23. Player can play the game as many times he/she wants. Everytime the money counter will start at zero.
-############################################################################################
-Known limitations of the code (if you have not been able to completely/fully implement certain features that were asked):
-1. All the features mentioned in the instructions document have been implemented.
-2. The user has to press Enter twice when the user loses/quits/becomes a crorepati. 
-############################################################################################
-Contributions of the team members:
-Dhruv Rawat made the main game, all the lifelines, file-handling and the colors using ANSI escape sequences.
-Shubham Sharma made the main user menu, the developers page, and all the congratulations and quit game screens 
-Vansh Chhabra made the question value screen, instructions screen and also all the text files and the questions contained within them. He also helped with the file handling part
-############################################################################################
 
-*USING COLORS IN C
+
+Additional Information:
+
+USING COLORS IN C
+
 To make the program more visually appealing and add to its aesthetics, we have used colors. It also makes our prompts more noticeable.
 
 CODE	COLOR
@@ -92,5 +76,3 @@ Further reading:
 Please visit the follwing sites - 
 1. http://web.theurbanpenguin.com/adding-color-to-your-output-from-c/
 2. https://ramprasadk.wordpress.com/2010/06/09/c-programming-linux-color-text-output/
-
-###########################################################################################

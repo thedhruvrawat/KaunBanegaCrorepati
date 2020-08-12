@@ -12,7 +12,7 @@ Course Project for CS F111: Computer Programming course at BITS Pilani
 
 ## Installation
 
-Clone this [repository](https://github.com/thedhruvrawat/KaunBanegaCrorepati.git) using the following command.
+Fork this [repository](https://github.com/thedhruvrawat/KaunBanegaCrorepati.git) and then clone it by using the following command.
 
 ```bash
 git clone https://github.com/thedhruvrawat/KaunBanegaCrorepati.git
